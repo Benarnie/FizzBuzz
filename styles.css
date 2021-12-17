@@ -1,0 +1,55 @@
+body {
+    background: rgba(95,158,160, 0.5);
+}
+
+h1 {
+    margin-top: 200px;
+}
+
+.intro {
+    display: block;
+    text-align: center;
+    text-shadow: 2px 2px #DCDCDC
+}
+
+.startButton {
+    background: rgba(95,158,160);
+    margin-top: 25px;
+    padding: 25px 40px 25px 40px;
+    font-size: 30px;
+}
+
+.startButton:hover {
+    background: rgba(95,158,160, 0.5);
+}
+
+.game {
+    display: none;
+}
+
+.number {
+    font-size: 300px;
+    text-align: center;
+    margin-top: 75px;
+}
+
+.gameButtons {
+    border: none;
+    text-align: center;
+}
+
+.action {
+    font-size: 30px;
+    padding: 25px 40px 25px 40px;
+    border-radius: 50%;
+    border-color: black;
+    background: cadetblue;
+}
+
+.action:hover {
+    background: rgba(95,158,160, 0.5);
+}
+
+.fizzbuzz {
+    margin-top: 9px;
+}
