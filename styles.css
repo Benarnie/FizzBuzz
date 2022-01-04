@@ -6,7 +6,7 @@ h1 {
     margin-top: 200px;
 }
 
-.intro {
+#intro {
     display: block;
     text-align: center;
     text-shadow: 2px 2px #DCDCDC
@@ -23,14 +23,20 @@ h1 {
     background: rgba(95,158,160, 0.5);
 }
 
-.game {
+#game {
     display: none;
 }
 
-.number {
+#number {
     font-size: 300px;
     text-align: center;
     margin-top: 75px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+input {
+    background-color: rgba(95,158,160);
 }
 
 .gameButtons {
