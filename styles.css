@@ -44,6 +44,11 @@ input {
     text-align: center;
 }
 
+.note {
+    text-align: center;
+    font-size: 20px;
+}
+
 .action {
     font-size: 30px;
     padding: 25px 40px 25px 40px;
@@ -56,6 +61,6 @@ input {
     background: rgba(95,158,160, 0.5);
 }
 
-.fizzbuzz {
+#fizzBuzz {
     margin-top: 9px;
 }
